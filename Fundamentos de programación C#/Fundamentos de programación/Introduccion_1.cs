@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace Fundamentos_de_programación_C_
+﻿namespace Practicas
 {
     internal class Introduccion_1
     {

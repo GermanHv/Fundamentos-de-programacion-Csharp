@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace Fundamentos_de_programación_C_.Fundamentos_de_programación
+namespace Practicas
 {
     // Clase padre
     class Water

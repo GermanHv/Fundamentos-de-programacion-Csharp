@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Runtime.InteropServices;
 using System.Text;
 
-namespace Fundamentos_de_programación_C_.Fundamentos_de_programación
+namespace Practicas
 {
     class Sale
     {

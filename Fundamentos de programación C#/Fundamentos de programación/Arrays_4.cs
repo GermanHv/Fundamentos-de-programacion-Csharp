@@ -1,9 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 
-namespace Fundamentos_de_programación_C_
+namespace Practicas
 {
     internal class Arrays_4
     {

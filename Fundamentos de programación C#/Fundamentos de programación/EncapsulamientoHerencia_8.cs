@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using static System.Runtime.InteropServices.JavaScript.JSType;
-using System.Text;
 
-namespace Fundamentos_de_programación_C_.Fundamentos_de_programación
+namespace Practicas
 {
     class People
     {
@@ -44,6 +41,7 @@ namespace Fundamentos_de_programación_C_.Fundamentos_de_programación
         {
             Engineer german = new Engineer("Germán", "Programación");
             Console.WriteLine(german.GetInfo());
+
             // No es publico
             // Console.WriteLine(german.name);
             Console.WriteLine(german.GetName());
